@@ -234,7 +234,7 @@ enum AuraType : uint32
     SPELL_AURA_MOD_RANGED_HASTE                             = 140,
     SPELL_AURA_141                                          = 141,  // old SPELL_AURA_MOD_RANGED_AMMO_HASTE, unused now
     SPELL_AURA_MOD_BASE_RESISTANCE_PCT                      = 142,
-    SPELL_AURA_MOD_RECOVERY_RATE_BY_SPELL_LABEL             = 143,  // NYI
+    SPELL_AURA_MOD_RECOVERY_RATE_BY_SPELL_LABEL             = 143,
     SPELL_AURA_SAFE_FALL                                    = 144,
     SPELL_AURA_MOD_INCREASE_HEALTH_PERCENT2                 = 145,
     SPELL_AURA_ALLOW_TAME_PET_TYPE                          = 146,
@@ -591,7 +591,7 @@ enum AuraType : uint32
     SPELL_AURA_MOD_ANIMA_GAIN                               = 497, // NYI
     SPELL_AURA_CURRENCY_LOSS_PCT_ON_DEATH                   = 498, // NYI
     SPELL_AURA_MOD_RESTED_XP_CONSUMPTION                    = 499,
-    SPELL_AURA_IGNORE_SPELL_CHARGE_COOLDOWN                 = 500, // NYI
+    SPELL_AURA_IGNORE_SPELL_CHARGE_COOLDOWN                 = 500,
     SPELL_AURA_MOD_CRITICAL_DAMAGE_TAKEN_FROM_CASTER        = 501,
     SPELL_AURA_MOD_VERSATILITY_DAMAGE_DONE_BENEFIT          = 502, // NYI
     SPELL_AURA_MOD_VERSATILITY_HEALING_DONE_BENEFIT         = 503, // NYI
